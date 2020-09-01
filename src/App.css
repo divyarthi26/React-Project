@@ -1,0 +1,156 @@
+ .container{
+  padding: 10px;
+  border: 0.5px solid lightgray;
+  margin-left: 220px;
+  margin-top: 50px;
+  margin-right: 220px;
+  border-radius: 5px;
+}
+.subHeading{
+  font-family: 'Google Sans',arial,sans-serif;
+  font-weight: 500;
+  margin-left: 12px;
+}
+.leftMargin{
+  margin-left: 10px;
+  font-family: 'Google Sans',arial,sans-serif;  
+}
+.xxsmallText{
+  font-size:9px;
+  font-family:'Times New Roman', Times, serif;
+  margin-left: 10px;
+}
+.xsmallText{
+  font-size:10px;
+  font-weight: bold;
+  margin-top: 5px;
+  margin-left: 10px;
+  color: #1a73e8;
+  font-family: 'Times New Roman', Times, serif;
+}
+  .form-group{
+  margin: 12px;
+  border-radius: 3px;
+  /* border: 3px solid red; */
+}
+.topMargin{
+  margin-top: 40px;
+  margin-left: 10px;
+  font-size:10px;
+  font-weight: bold;
+  color: #1a73e8;
+}
+
+
+.button {
+color:white;
+background-color: #1a73e8;
+text-align: center;
+font-size: x-small;
+padding: 5px 15px 5px 15px;
+  border: 0;
+  margin-left: 220px;
+  border-radius: 3px;
+  font-size: 14px;
+  font-weight:400;
+}
+.button1{
+  color:black;
+  background-color:white;
+  text-align: center;
+  font-size: x-small;
+  padding: 5px 15px 5px 15px;
+    border: 0;
+    margin-left: 310px;
+    border-radius:3px;
+    font-size: 10px;
+    font-weight:400; 
+}
+
+.button2{
+  color:black;
+  background-color:white;
+  text-align: center;
+  font-size: x-small;
+  padding: 5px 15px 5px 15px;
+    border: 0;
+    margin-left:5px;
+    border-radius:3px;
+    font-size: 10px;
+    font-weight:400; 
+}
+
+.flex{
+  display: flex;
+  flex-direction:row;
+  
+  }
+  .columnFlex{
+    display: flex;
+    flex-direction:column;    
+  } 
+
+  .acontainer{
+    padding: 10px;
+    border: 0.5px solid lightgray;
+    margin-left: 400px;
+    margin-top: 50px;
+    margin-right: 400px;
+    border-radius: 5px;
+  }
+  .ah1{
+    font-family: 'Google Sans',arial,sans-serif;
+    text-align: center;
+  
+  }
+  
+  .axsmallText{
+    font-size:15px;
+    margin-top: 5px;
+    margin-left: 10px;
+    color: #1a73e8;
+    font-family: 'Times New Roman', Times, serif;
+  }
+    .aform-group{
+    margin: 12px;
+    border-radius:10px;
+    /* border: 3px solid red; */
+  }
+  
+  
+  .abutton {
+  color:white;
+  background-color: #1a73e8;
+  font-size: x-small;
+  padding: 5px 15px 5px 15px;
+    border: 0;
+    border-radius: 3px;
+    font-size: 14px;
+    font-weight:400;
+  }
+  .abutton1{
+    color:black;
+    background-color:white;
+    text-align: center;
+    font-size: x-small;
+    padding: 5px 15px 5px 15px;
+      border: 0;
+      margin-left: 310px;
+      border-radius:3px;
+      font-size: 10px;
+      font-weight:400; 
+  }
+  
+  .abutton2{
+    color:black;
+    background-color:white;
+    text-align: center;
+    font-size: x-small;
+    padding: 5px 15px 5px 15px;
+      border: 0;
+      margin-left:5px;
+      border-radius:3px;
+      font-size: 10px;
+      font-weight:400; 
+  }
+  
